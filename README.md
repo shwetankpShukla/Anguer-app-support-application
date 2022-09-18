@@ -1,2 +1,2 @@
 # angular-app-support-application
-This application specially build using spring-boot and  for backend support angular-Student-management 
+This application build using spring-boot to give backend support to angular-Student-management 
